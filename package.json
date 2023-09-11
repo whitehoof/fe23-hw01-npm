@@ -1,0 +1,29 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Ед, Білокопитов, FE 23",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitehoof/fe23-hw01-npm.git"
+  },
+  "author": "whitehoof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitehoof/fe23-hw01-npm/issues"
+  },
+  "homepage": "https://github.com/whitehoof/fe23-hw01-npm#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "eslint": "^8.49.0",
+    "gulp": "^4.0.2"
+  }
+}
